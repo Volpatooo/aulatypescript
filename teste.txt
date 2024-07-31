@@ -1,0 +1,3 @@
+Apenas Teste
+
+git add . adiciona o que mudamos no nosso repositório local
