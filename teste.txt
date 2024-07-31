@@ -1,3 +1,5 @@
 Apenas Teste
 
-git add . adiciona o que mudamos no nosso repositório local
+git add . adiciona o que mudamos no nosso repositório local ele nos mostra oq mudamos
+
+ git commit -m "commit inicial de teste do repositorio" faz o commit do nossos arquivos igaul o git desktop
