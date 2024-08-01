@@ -1,5 +1,25 @@
 Apenas Teste
 
-git add . adiciona o que mudamos no nosso repositório local ele nos mostra oq mudamos
+ git add . adiciona o que mudamos no nosso repositório local ele nos mostra oq mudamos
 
- git commit -m "commit inicial de teste do repositorio" faz o commit do nossos arquivos igaul o git desktop
+ git commit -m "commit inicial de teste do repositorio" nessecaso e um nome aleatorio faz o commit do nossos arquivos igaul o git desktop
+
+ e depois git push origin main vai dar o push origin igual o git desktop e pronto vai estar la
+
+ e muito importante saber aond eestamos abrindo as pastas se quisermos abrir a pasta basics pelo terminal clicamos na pasta e abrimos o terminal apertando o bota direito
+
+ para instalar o typescript no vscode temos que dar os seguintes comandos 
+
+    npm init -y
+    npm install typescript -D
+    npx tsc -v
+    npx tsc --init
+
+
+    json é um padrao universal de dados de alguma api r3ddr3
+
+    npx tsc + nome do arquivo .ts cria o mesmo arquivo so que em formato js
+    typescript é uma linguagem para tpar o js ou seja deixar ele mais explicado ex let mensagem: string ou seja afirmamos que a variavel mensagem é uma string
+
+    quando falamos que uma variavel e do tipo number nao podemos deixar entre aspas pois vai identificar como string ai
+    
